@@ -1,0 +1,8 @@
+.important{
+  float:left;
+  font-size:14px;
+  background-color:blue;
+}
+.font p{
+  font-family: fantasy;
+}
