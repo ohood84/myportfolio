@@ -1,8 +1,22 @@
 .important{
-  float:left;
-  font-size:14px;
+  float:right;
   background-color:blue;
 }
 .font p{
   font-family: fantasy;
+  color:red;
+  font-size: 20px;
+}
+
+.center {
+  float:right;
+  background-color:purple:
+
+
+.myboxmodel{
+  margin:12px;
+  border:2px solid green
+  padding:4px;
+  background-color: orange;
+
 }
