@@ -11,12 +11,11 @@
 .center {
   float:right;
   background-color:purple:
+}
 
-
-.myboxmodel{
-  margin:12px;
-  border:2px solid green
-  padding:4px;
-  background-color: orange;
-
+.myboxmodel {
+  margin: 5px;
+  border: 10px solid black;
+  padding: 15px;
+  background-color: yellow;
 }
