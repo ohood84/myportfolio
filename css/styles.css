@@ -1,9 +1,11 @@
-.float{
-  float=left:
-}
+
 .colomn{
-  width=300;
-  float=left;
+  width:600;
+  float:left;
+  text-align:center;;
+}
+img{
+  float:left;
 }
 h1{
   color:#0000ff;
