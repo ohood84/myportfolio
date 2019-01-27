@@ -13,20 +13,16 @@ h1{
   }
 
   }
-  .important
-  {
-  font-size: 20px;
-  font-style: italic;
-  font-family: sans-serif;
+  .important{
+font-style: italic;
+  }
+}
+ .important ul a{
+  font-weight: bold;
 }
 
- .important a p{
-  background-color=#00A0;
-}
-
-.a p{
-  font-size: 30;
-  background-color:red;
+p a{
+  background-color:purple
 }
 .myboxmodel {
   margin: 5px;
