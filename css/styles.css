@@ -1,4 +1,9 @@
-.important{
+
+h1{
+  color:#0000ff;
+  text-align:center;
+  }
+  .important{
   float:inherit;
   background-color:blue;
   font-size: 80;
@@ -15,7 +20,10 @@
   float:right;
   background-color:purple:
 }
-
+.p a{
+  font-size: 30;
+  background-color:red;
+}
 .myboxmodel {
   margin: 5px;
   border: 10px solid black;
