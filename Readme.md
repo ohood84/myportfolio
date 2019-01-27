@@ -11,6 +11,7 @@ This portfoli webpage showing inforamation about me and some project i did.I cre
 ## Setup/Installation Requirements
 
 * Clone this repository
+ https://github.com/ohood84/portfolio
 * Open the folder from the git
 * open the atom HTML index file to see the program
 * To run the page double click on it.
