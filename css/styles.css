@@ -1,6 +1,9 @@
 .important{
-  float:right;
+  float:inherit;
   background-color:blue;
+  font-size: 80;
+  font-style: italic;
+  font-family: sans-serif;
 }
 .font p{
   font-family: fantasy;
@@ -17,5 +20,5 @@
   margin: 5px;
   border: 10px solid black;
   padding: 15px;
-  background-color: yellow;
+  background-color: gray;
 }
